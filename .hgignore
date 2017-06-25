@@ -1,0 +1,5 @@
+syntax: glob
+*.class
+pivottable.jar
+zpoi-3.8.1.jar
+zpoiex-3.8.1.jar
